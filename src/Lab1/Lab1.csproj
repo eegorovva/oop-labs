@@ -1,15 +1,7 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
         <RootNamespace>Itmo.ObjectOrientedProgramming.Lab1</RootNamespace>
-		<GenerateDocumentationFile>true</GenerateDocumentationFile>
     </PropertyGroup>
-
-
-
-
-
-
-
 
 </Project>
