@@ -3,8 +3,12 @@
         <TargetFramework>net7.0</TargetFramework>
         <ImplicitUsings>disable</ImplicitUsings>
         <Nullable>enable</Nullable>
-	<GenerateDocumentationFile>true</GenerateDocumentationFile>
     </PropertyGroup>
+	
+	<PropertyGroup>    
+	<GenerateDocumentationFile>true
+	</GenerateDocumentationFile>
+	</PropertyGroup>
 
     <PropertyGroup>
         <AnalysisLevel>latest</AnalysisLevel>
